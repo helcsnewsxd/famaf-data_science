@@ -1,0 +1,27 @@
+[submodule "01-data_analysis_and_visualization"]
+	path = 01-data_analysis_and_visualization
+	url = https://github.com/helcsnewsxd/famaf-data_science-data_analysis_and_visualization
+[submodule "02-data_exploration_and_curation"]
+	path = 02-data_exploration_and_curation
+	url = https://github.com/helcsnewsxd/famaf-data_science-data_exploration_and_curation
+[submodule "03-machine_learning_introduction"]
+	path = 03-machine_learning_introduction
+	url = https://github.com/helcsnewsxd/famaf-data_science-machine_learning_introduction
+[submodule "04-supervised_learning"]
+	path = 04-supervised_learning
+	url = https://github.com/helcsnewsxd/famaf-data_science-supervised_learning
+[submodule "05-unsupervised_learning"]
+	path = 05-unsupervised_learning
+	url = https://github.com/helcsnewsxd/famaf-data_science-unsupervised_learning
+[submodule "06-time_series_in_finance"]
+	path = 06-time_series_in_finance
+	url = https://github.com/helcsnewsxd/famaf-data_science-time_series_in_finance
+[submodule "07-deep_learning_introduction"]
+	path = 07-deep_learning_introduction
+	url = https://github.com/helcsnewsxd/famaf-data_science-deep_learning_introduction
+[submodule "08-image_processing"]
+	path = 08-image_processing
+	url = https://github.com/helcsnewsxd/famaf-data_science-image_processing
+[submodule "09-mentoring_project"]
+	path = 09-mentoring_project
+	url = https://github.com/helcsnewsxd/famaf-data_science-mentoring_project
